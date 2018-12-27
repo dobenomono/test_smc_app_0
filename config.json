@@ -26,7 +26,7 @@
                     "foundSignupDate": ""
                 }
             ],
-            "url": "https://testsmcapp0.herokuapp.com/execute",
+            "url": "https://testresthoge.herokuapp.com/samples/hello",
             "verb": "POST",
             "body": "",
             "header": "",
@@ -37,25 +37,25 @@
     },
     "configurationArguments": {
        "save": {
-           "url": "https://testsmcapp0.herokuapp.com/save",
+           "url": "https://testresthoge.herokuapp.com/samples/hello",
            "body": "",
            "verb": "POST",
            "useJwt": false
        },
        "publish": {
-           "url": "https://testsmcapp0.herokuapp.com/publish",
+           "url": "https://testresthoge.herokuapp.com/samples/hello",
            "body": "",
            "verb": "POST",
            "useJwt": false
        },
        "validate": {
-           "url": "https://testsmcapp0.herokuapp.com/validate",
+           "url": "https://testresthoge.herokuapp.com/samples/hello",
            "body": "",
            "verb": "POST",
            "useJwt": false
        },
        "stop": {
-           "url": "https://testsmcapp0.herokuapp.com/stop",
+           "url": "https://testresthoge.herokuapp.com/samples/hello",
            "body": "",
            "verb": "POST",
            "useJwt": false
